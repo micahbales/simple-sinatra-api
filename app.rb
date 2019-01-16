@@ -8,7 +8,6 @@ configure do
   enable :cross_origin
 end
 
-
 before do
   # Encode all responses as "application/json"
   content_type :json
