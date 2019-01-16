@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "board_id": "1",
+    "title": "My Very First Item",
+    "body": "Aenean eu molestie est, ut euismod orci. In dapibus massa vel ornare venenatis. Fusce id nisi sit amet nisi tempor mollis in eget velit."
+  },
+  {
+    "id": "2",
+    "board_id": "1",
+    "title": "Alt Item",
+    "body": "Etiam at ligula sed risus fringilla ultricies in sed sapien. Nam tempus accumsan vestibulum."
+  },
+  {
+    "id": "3",
+    "board_id": "1",
+    "title": "Here's The Thing",
+    "body": "Ut quam sem, vulputate et lobortis at, pellentesque sit amet ante."
+  },
+  {
+    "id": "4",
+    "board_id": "2",
+    "title": "Lorem Oopsem",
+    "body": "Phasellus sit amet semper risus, sit amet vehicula lacus."
+  },
+  {
+    "id": "5",
+    "board_id": "2",
+    "title": "Item Numero Dos",
+    "body": "Aliquam ut tellus accumsan libero finibus dictum. Sed eu orci libero. Curabitur at arcu neque."
+  }
+]
