@@ -1,5 +1,6 @@
 require 'sinatra'
+configure { set :server, :puma }
 
 get '/' do
-  {:hi => 'mom'}.to_json
+  {:hi => 'dad'}.to_json
 end
